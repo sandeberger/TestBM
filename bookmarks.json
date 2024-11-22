@@ -1,11 +1,724 @@
 {
-  "darkMode": false,
-  "openInNewTab": false,
+  "darkMode": true,
+  "openInNewTab": true,
   "chromeWindowStates": {},
-  "collections": [],
+  "collections": [
+    {
+      "name": "AI Arts",
+      "isOpen": true,
+      "bookmarks": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "id": "9db67616-3790-4755-ba12-13fff2df2168",
+      "deleted": false,
+      "lastModified": 1732276339724
+    },
+    {
+      "name": "AI Music, Speech & Sound",
+      "isOpen": true,
+      "bookmarks": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "id": "dfce7ee7-1058-48f5-9d05-5aa9c32ae499",
+      "deleted": false,
+      "lastModified": 1732276339725
+    },
+    {
+      "name": "AI Verktyg",
+      "isOpen": true,
+      "bookmarks": [
+        {}
+      ],
+      "id": "5f89016a-9219-4963-a1a4-4f82fee18273",
+      "deleted": false,
+      "lastModified": 1732276339725
+    },
+    {
+      "name": "AI Promt Engineering",
+      "isOpen": true,
+      "bookmarks": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "id": "71a549eb-0ce7-4d0a-a9fa-b6104c221687",
+      "deleted": false,
+      "lastModified": 1732276339725
+    },
+    {
+      "name": "Botek",
+      "isOpen": true,
+      "bookmarks": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "id": "c3148617-1540-46cc-84e8-30e5e1704f7f",
+      "deleted": false,
+      "lastModified": 1732276339725
+    },
+    {
+      "name": "Sociala medier",
+      "isOpen": true,
+      "bookmarks": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "id": "503de616-6072-4a57-ae12-ebc4b58e2afd",
+      "deleted": false,
+      "lastModified": 1732276339726
+    },
+    {
+      "name": "News",
+      "isOpen": true,
+      "bookmarks": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "id": "45473a11-52b9-44f1-85e1-f3e516a9e640",
+      "deleted": false,
+      "lastModified": 1732276339726
+    },
+    {
+      "name": "Ukraina",
+      "isOpen": true,
+      "bookmarks": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "id": "b8f0bf69-a5cd-4960-bc85-63598d3b4440",
+      "deleted": false,
+      "lastModified": 1732276339727
+    },
+    {
+      "name": "Hälsa",
+      "isOpen": true,
+      "bookmarks": [
+        {}
+      ],
+      "id": "10208e75-fb01-4568-a0c2-856f269b3c7a",
+      "deleted": false,
+      "lastModified": 1732276339728
+    },
+    {
+      "name": "Spel",
+      "isOpen": true,
+      "bookmarks": [
+        {}
+      ],
+      "id": "0bdd1fca-181f-4d1e-bf98-a1d9fe95f188",
+      "deleted": false,
+      "lastModified": 1732276339728
+    },
+    {
+      "name": "Russia",
+      "isOpen": true,
+      "bookmarks": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "id": "d27d4fe6-1887-462c-bace-87644174ce71",
+      "deleted": false,
+      "lastModified": 1732276339728
+    },
+    {
+      "name": "Nyheter Världen",
+      "isOpen": true,
+      "bookmarks": [
+        {},
+        {},
+        {}
+      ],
+      "id": "bff0537e-8305-4c98-b5e6-652391302592",
+      "deleted": false,
+      "lastModified": 1732276339729
+    },
+    {
+      "name": "Electronics",
+      "isOpen": true,
+      "bookmarks": [
+        {},
+        {}
+      ],
+      "id": "cf020845-e11a-4ad2-8b60-f877b2e61d4b",
+      "deleted": false,
+      "lastModified": 1732276339729
+    },
+    {
+      "name": "Art",
+      "isOpen": true,
+      "bookmarks": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "id": "a319a1c8-91c1-4771-a645-36d951a694a5",
+      "deleted": false,
+      "lastModified": 1732276339729
+    },
+    {
+      "name": "Mat",
+      "isOpen": true,
+      "bookmarks": [
+        {},
+        {},
+        {}
+      ],
+      "id": "c7a81a10-4bb5-4e9a-8d4f-f6081c11d77b",
+      "deleted": false,
+      "lastModified": 1732276339729
+    },
+    {
+      "name": "Säkerhet",
+      "isOpen": true,
+      "bookmarks": [
+        {},
+        {}
+      ],
+      "id": "bac3203a-0aa0-4b00-be81-028111c2fbae",
+      "deleted": false,
+      "lastModified": 1732276339729
+    },
+    {
+      "name": "Språk",
+      "isOpen": true,
+      "bookmarks": [
+        {}
+      ],
+      "id": "9f6a7c1e-cb76-4f12-8c00-1309386cf186",
+      "deleted": false,
+      "lastModified": 1732276339730
+    },
+    {
+      "name": "Databases",
+      "isOpen": true,
+      "bookmarks": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "id": "8c6f6248-58e6-4923-bf2c-ea308df45c61",
+      "deleted": false,
+      "lastModified": 1732276339730
+    },
+    {
+      "name": "Film & TV",
+      "isOpen": true,
+      "bookmarks": [
+        {},
+        {}
+      ],
+      "id": "fa3d5be8-9dc2-469c-b392-0aee7668c09a",
+      "deleted": false,
+      "lastModified": 1732276339730
+    },
+    {
+      "name": "Läsbart",
+      "isOpen": true,
+      "bookmarks": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "id": "1aac65c3-d06d-4abd-9fff-bcb5426f980f",
+      "deleted": false,
+      "lastModified": 1732276339730
+    },
+    {
+      "name": "Spabad",
+      "isOpen": true,
+      "bookmarks": [
+        {},
+        {},
+        {}
+      ],
+      "id": "ccd9e121-e02d-4c86-a9f5-891b49566dc0",
+      "deleted": false,
+      "lastModified": 1732276339731
+    },
+    {
+      "name": "Mind",
+      "isOpen": true,
+      "bookmarks": [
+        {},
+        {}
+      ],
+      "id": "134f2ade-55f8-4b3b-b14c-a05377c4d257",
+      "deleted": false,
+      "lastModified": 1732276339731
+    },
+    {
+      "name": "Telefon",
+      "isOpen": true,
+      "bookmarks": [
+        {}
+      ],
+      "id": "d75d6dd2-e40d-4855-a3ab-f32c610c5178",
+      "deleted": false,
+      "lastModified": 1732276339731
+    },
+    {
+      "name": "Ljud",
+      "isOpen": true,
+      "bookmarks": [
+        {},
+        {},
+        {}
+      ],
+      "id": "8987882d-2b22-4089-9b2e-167acdf4ef29",
+      "deleted": false,
+      "lastModified": 1732276339731
+    },
+    {
+      "name": "Omvrådesanalys",
+      "isOpen": true,
+      "bookmarks": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "id": "4cee738b-5f47-4fd2-81ae-70f3f7a25831",
+      "deleted": false,
+      "lastModified": 1732276339731
+    },
+    {
+      "name": "Google",
+      "isOpen": true,
+      "bookmarks": [
+        {},
+        {},
+        {}
+      ],
+      "id": "88b743da-22fc-489f-a050-1736413932f1",
+      "deleted": false,
+      "lastModified": 1732276339732
+    },
+    {
+      "name": "Linux",
+      "isOpen": true,
+      "bookmarks": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "id": "3cef59b5-f2dd-40b5-86f9-798c1ba56c8a",
+      "deleted": false,
+      "lastModified": 1732276339732
+    },
+    {
+      "name": "Schoolish",
+      "isOpen": true,
+      "bookmarks": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "id": "1a0a08e5-c412-4048-8272-afa7ff4f6d35",
+      "deleted": false,
+      "lastModified": 1732276339732
+    },
+    {
+      "name": "Verktyg",
+      "isOpen": true,
+      "bookmarks": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "id": "5f98c7e7-4dde-476f-954f-6db0ece262ea",
+      "deleted": false,
+      "lastModified": 1732276339733
+    },
+    {
+      "name": "Retrocoding - c64",
+      "isOpen": true,
+      "bookmarks": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "id": "4b569b6b-0967-4999-9322-009470703669",
+      "deleted": false,
+      "lastModified": 1732276339733
+    },
+    {
+      "name": "C#",
+      "isOpen": true,
+      "bookmarks": [
+        {},
+        {}
+      ],
+      "id": "534a504d-ec91-442a-a939-bc6c9ad2548d",
+      "deleted": false,
+      "lastModified": 1732276339733
+    },
+    {
+      "name": "Sourcecode",
+      "isOpen": true,
+      "bookmarks": [
+        {},
+        {}
+      ],
+      "id": "bb572ce2-ec92-4bc3-b6e2-64847f789e13",
+      "deleted": false,
+      "lastModified": 1732276339733
+    },
+    {
+      "name": "CodeFun",
+      "isOpen": true,
+      "bookmarks": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "id": "1cef2e87-f8f8-4a22-a706-82d1ed85c0a8",
+      "deleted": false,
+      "lastModified": 1732276339733
+    },
+    {
+      "name": "Javascript, HTML5",
+      "isOpen": true,
+      "bookmarks": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "id": "14e7f88e-7c89-469b-a564-b30bef2b5944",
+      "deleted": false,
+      "lastModified": 1732276339734
+    },
+    {
+      "name": "SGP611",
+      "isOpen": true,
+      "bookmarks": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "id": "03ea93f4-2750-437c-8348-70ba2b278a32",
+      "deleted": false,
+      "lastModified": 1732276339734
+    },
+    {
+      "name": "TCP/IP/WWW",
+      "isOpen": true,
+      "bookmarks": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "id": "27155f53-e4cf-4b5a-ab10-c3d3c71b7203",
+      "deleted": false,
+      "lastModified": 1732276339734
+    },
+    {
+      "name": "ResourcesGame",
+      "isOpen": true,
+      "bookmarks": [
+        {},
+        {}
+      ],
+      "id": "5bdc0b08-5b7e-42c7-a9e0-9cdb25aa0916",
+      "deleted": false,
+      "lastModified": 1732276339734
+    },
+    {
+      "name": "Fileshare",
+      "isOpen": true,
+      "bookmarks": [
+        {}
+      ],
+      "id": "34f62eeb-a3e6-4556-83d6-d4f42c7df712",
+      "deleted": false,
+      "lastModified": 1732276339734
+    },
+    {
+      "name": "C++",
+      "isOpen": true,
+      "bookmarks": [
+        {},
+        {}
+      ],
+      "id": "6c99c8ea-fc38-4181-b75b-c54b76559551",
+      "deleted": false,
+      "lastModified": 1732276339734
+    },
+    {
+      "name": "Regex",
+      "isOpen": true,
+      "bookmarks": [
+        {},
+        {}
+      ],
+      "id": "e178fc7b-42ca-4303-b434-7e097e6d7a2c",
+      "deleted": false,
+      "lastModified": 1732276339734
+    },
+    {
+      "name": "Lifestylish",
+      "isOpen": true,
+      "bookmarks": [
+        {}
+      ],
+      "id": "2f8ec5ea-dbb8-4683-99cd-12d1d8c74eef",
+      "deleted": false,
+      "lastModified": 1732276339735
+    },
+    {
+      "name": "Licenses",
+      "isOpen": true,
+      "bookmarks": [
+        {}
+      ],
+      "id": "c7d570df-a87d-4fba-8d75-f0e03e602d8e",
+      "deleted": false,
+      "lastModified": 1732276339735
+    },
+    {
+      "name": "Piracy",
+      "isOpen": true,
+      "bookmarks": [
+        {},
+        {},
+        {}
+      ],
+      "id": "3b70a58e-afa1-4ce8-88df-36195dbf962d",
+      "deleted": false,
+      "lastModified": 1732276339735
+    },
+    {
+      "name": "Collections",
+      "isOpen": true,
+      "bookmarks": [
+        {},
+        {}
+      ],
+      "id": "c0bd9f23-3109-4a8c-a4e2-928534940e9c",
+      "deleted": false,
+      "lastModified": 1732276339735
+    },
+    {
+      "name": "Movex",
+      "isOpen": true,
+      "bookmarks": [
+        {},
+        {}
+      ],
+      "id": "8ccd6451-bbde-4abc-a7a6-1401469a541b",
+      "deleted": false,
+      "lastModified": 1732276339735
+    },
+    {
+      "name": "Project-Origo",
+      "isOpen": true,
+      "bookmarks": [
+        {},
+        {},
+        {}
+      ],
+      "id": "e82e7468-24b4-4343-8a70-83992c2b82fb",
+      "deleted": false,
+      "lastModified": 1732276339735
+    },
+    {
+      "name": "Sweco",
+      "isOpen": true,
+      "bookmarks": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "id": "fb2fbdc6-bf2b-4360-8984-6356d6a0c112",
+      "deleted": false,
+      "lastModified": 1732276339735
+    },
+    {
+      "name": "Saft",
+      "isOpen": true,
+      "bookmarks": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "id": "2addcddd-63b3-4ae9-bdeb-2410030a144b",
+      "deleted": false,
+      "lastModified": 1732276339735
+    },
+    {
+      "name": "TheFileNinja",
+      "isOpen": true,
+      "bookmarks": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "id": "e52cce23-926e-483b-8af0-a238d4277e64",
+      "deleted": false,
+      "lastModified": 1732276339736
+    },
+    {
+      "name": "AI Chats",
+      "isOpen": true,
+      "bookmarks": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "id": "cefcd58e-5a13-436c-901c-0eba9a8c08c1",
+      "deleted": false,
+      "lastModified": 1732276339736
+    }
+  ],
   "githubConfig": {
     "username": "sandeberger",
     "repo": "TestBM",
-    "filepath": "bookmarks.json"
+    "filepath": "bookmarks.json",
+    "pat": ""
   }
 }
