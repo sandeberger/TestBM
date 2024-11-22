@@ -1762,7 +1762,7 @@
       "id": "ecd6e64c-fb68-4732-bf48-29bcef1ac451",
       "name": "Favoriter",
       "isOpen": true,
-      "lastModified": 1732276603274,
+      "lastModified": 1732276790599,
       "deleted": false,
       "position": 50,
       "bookmarks": [
@@ -1782,6 +1782,15 @@
           "description": "",
           "icon": "https://static.bonniernews.se/bundles/expressen/images/favicon.ico",
           "lastModified": 1732276603274,
+          "deleted": false
+        },
+        {
+          "id": "ba94c7a4-9624-4b9b-b578-aa1257e24463",
+          "title": "(466) YouTube",
+          "url": "https://www.youtube.com/",
+          "description": "",
+          "icon": "https://www.youtube.com/s/desktop/b61fbcbd/img/logos/favicon_32x32.png",
+          "lastModified": 1732276678013,
           "deleted": false
         }
       ]
