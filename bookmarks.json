@@ -7,712 +7,1784 @@
       "name": "AI Arts",
       "isOpen": true,
       "bookmarks": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+          "id": "e652a038-3627-4039-8822-756fe955d2eb",
+          "deleted": false,
+          "lastModified": 1732276355547
+        },
+        {
+          "id": "be8766c4-2330-4165-9249-986f3b4de31d",
+          "deleted": false,
+          "lastModified": 1732276355547
+        },
+        {
+          "id": "6e833c40-8193-4d73-8f0d-26a4b3c44b78",
+          "deleted": false,
+          "lastModified": 1732276355547
+        },
+        {
+          "id": "f166fb73-b180-4486-94f6-018d1975c417",
+          "deleted": false,
+          "lastModified": 1732276355547
+        },
+        {
+          "id": "cc352fd6-f832-47d4-9e91-c7c3b9949388",
+          "deleted": false,
+          "lastModified": 1732276355547
+        },
+        {
+          "id": "56bc9f5d-9738-4a2c-948d-cb7c84cc2709",
+          "deleted": false,
+          "lastModified": 1732276355547
+        },
+        {
+          "id": "496978ca-a4f6-4392-b1a4-0e19bf9da08c",
+          "deleted": false,
+          "lastModified": 1732276355547
+        },
+        {
+          "id": "ca42decc-a420-4472-b9b4-cf001920491e",
+          "deleted": false,
+          "lastModified": 1732276355547
+        },
+        {
+          "id": "af28c1c0-b83e-42a5-b623-46fc6a0d4313",
+          "deleted": false,
+          "lastModified": 1732276355547
+        },
+        {
+          "id": "fa554c33-e9e3-4d3e-a679-883d26626b4e",
+          "deleted": false,
+          "lastModified": 1732276355547
+        },
+        {
+          "id": "834107de-1b24-4237-a300-475aa66be665",
+          "deleted": false,
+          "lastModified": 1732276355547
+        },
+        {
+          "id": "2c9c9dd3-2b15-4fa7-a211-157f0d58c789",
+          "deleted": false,
+          "lastModified": 1732276355547
+        }
       ],
       "id": "9db67616-3790-4755-ba12-13fff2df2168",
-      "deleted": false,
-      "lastModified": 1732276339724
+      "deleted": true,
+      "lastModified": 1732276499547
     },
     {
       "name": "AI Music, Speech & Sound",
       "isOpen": true,
       "bookmarks": [
-        {},
-        {},
-        {},
-        {}
+        {
+          "id": "4e8c0d88-2072-402c-9201-48b0a7c7ba3a",
+          "deleted": false,
+          "lastModified": 1732276355547
+        },
+        {
+          "id": "e327c64b-a4d7-4af7-b169-998ec563e1af",
+          "deleted": false,
+          "lastModified": 1732276355547
+        },
+        {
+          "id": "a485cfe0-1918-4046-960c-72e2d1e614e3",
+          "deleted": false,
+          "lastModified": 1732276355547
+        },
+        {
+          "id": "c45e0c61-8ca4-4e47-b227-006b74e381ea",
+          "deleted": false,
+          "lastModified": 1732276355547
+        }
       ],
       "id": "dfce7ee7-1058-48f5-9d05-5aa9c32ae499",
-      "deleted": false,
-      "lastModified": 1732276339725
+      "deleted": true,
+      "lastModified": 1732276501723
     },
     {
       "name": "AI Verktyg",
       "isOpen": true,
       "bookmarks": [
-        {}
+        {
+          "id": "a0d4b0c4-e3b6-4575-b5e7-3075da81da54",
+          "deleted": false,
+          "lastModified": 1732276355547
+        }
       ],
       "id": "5f89016a-9219-4963-a1a4-4f82fee18273",
-      "deleted": false,
-      "lastModified": 1732276339725
+      "deleted": true,
+      "lastModified": 1732276503267
     },
     {
       "name": "AI Promt Engineering",
       "isOpen": true,
       "bookmarks": [
-        {},
-        {},
-        {},
-        {}
+        {
+          "id": "cb73443a-58ed-4b55-ac2c-98775621eae2",
+          "deleted": false,
+          "lastModified": 1732276355547
+        },
+        {
+          "id": "1da1ed23-71be-40cc-a4cb-cec68d3c633b",
+          "deleted": false,
+          "lastModified": 1732276355547
+        },
+        {
+          "id": "30ba77f2-f11b-4034-a977-aafaf56664f3",
+          "deleted": false,
+          "lastModified": 1732276355547
+        },
+        {
+          "id": "5ff8a51d-3b1b-486b-b925-d58d88f0f9da",
+          "deleted": false,
+          "lastModified": 1732276355547
+        }
       ],
       "id": "71a549eb-0ce7-4d0a-a9fa-b6104c221687",
-      "deleted": false,
-      "lastModified": 1732276339725
+      "deleted": true,
+      "lastModified": 1732276504010
     },
     {
       "name": "Botek",
       "isOpen": true,
       "bookmarks": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+          "id": "fa067f68-7192-4311-ab26-29feb8809eee",
+          "deleted": false,
+          "lastModified": 1732276355547
+        },
+        {
+          "id": "a5ab74a4-cfb9-4717-b8e9-e7aecefffbe6",
+          "deleted": false,
+          "lastModified": 1732276355547
+        },
+        {
+          "id": "82592251-fc94-4280-8631-b81d217dd33c",
+          "deleted": false,
+          "lastModified": 1732276355547
+        },
+        {
+          "id": "c60919c9-c5fb-4ae4-bfea-c00378445ef6",
+          "deleted": false,
+          "lastModified": 1732276355547
+        },
+        {
+          "id": "301b8028-ffd9-4b5b-ab2c-cf30c34a095a",
+          "deleted": false,
+          "lastModified": 1732276355547
+        },
+        {
+          "id": "4be75403-61bb-4d9d-b429-840403b74500",
+          "deleted": false,
+          "lastModified": 1732276355547
+        },
+        {
+          "id": "44532c99-d9da-4ac4-9b9e-4f590aed4f94",
+          "deleted": false,
+          "lastModified": 1732276355547
+        }
       ],
       "id": "c3148617-1540-46cc-84e8-30e5e1704f7f",
-      "deleted": false,
-      "lastModified": 1732276339725
+      "deleted": true,
+      "lastModified": 1732276504675
     },
     {
       "name": "Sociala medier",
       "isOpen": true,
       "bookmarks": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+          "id": "26a32eeb-934d-47f2-ade7-baef0802d53c",
+          "deleted": false,
+          "lastModified": 1732276355547
+        },
+        {
+          "id": "da267a59-a9ef-4c45-baa6-76babd3015f3",
+          "deleted": false,
+          "lastModified": 1732276355547
+        },
+        {
+          "id": "00e8359f-413b-4707-bfbb-01b2f0955fd1",
+          "deleted": false,
+          "lastModified": 1732276355547
+        },
+        {
+          "id": "bfa6e50b-240e-436f-9cc9-dd779b9c5d3d",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "45b8d577-fe33-4bbe-adb9-d45332c1f46c",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "c9a7b1a3-ba9e-4eab-830c-0373669af98d",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "2220d60c-78dc-47e7-8fe0-a997ccef2035",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "049ac58a-2edc-49d3-a302-776168865923",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "083bc5ca-d804-43ed-b9c2-4455e565d1df",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "8b6ea939-a82b-4834-a2e9-2e58f1d38824",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "3e6b4d43-c82a-4201-b8e2-2feb045eb980",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "c406dddd-e02b-43dc-a569-eb12cad9cb1f",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "aa38b1f3-2d17-4f66-80fc-2bcd34a00ff2",
+          "deleted": false,
+          "lastModified": 1732276355548
+        }
       ],
       "id": "503de616-6072-4a57-ae12-ebc4b58e2afd",
-      "deleted": false,
-      "lastModified": 1732276339726
+      "deleted": true,
+      "lastModified": 1732276505275
     },
     {
       "name": "News",
       "isOpen": true,
       "bookmarks": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+          "id": "84e273a4-a76f-47da-b616-a688eb2a4e33",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "39a61954-8394-422d-8183-6d1269fd784f",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "8953adba-6fd0-41f7-9edf-a676a21ec1ef",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "02092921-6923-47fe-bf7f-1afcf54f0a37",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "88c545fe-c535-4c68-870c-34a67109427c",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "abb8ac83-0f73-49b2-9f8b-834ddcb46278",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "fb6e3ac8-e616-4c11-9a61-e773b3ca989f",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "6d955603-6c92-4ed3-b4e4-f627bf000339",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "389e4b4d-6a6d-4fee-b5e9-0727fba47d39",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "d4512eac-0b06-4904-be35-4aadb727b289",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "303864d4-0363-442a-9f27-fd79fd032015",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "31030f01-ed78-4840-9fc5-fad725c6bd8e",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "43d6a2bc-d013-44ea-ae57-5269714dedbd",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "3238e9f8-547f-4530-a6b6-8acf52f78fb4",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "3679ae88-2898-4b72-a5ac-fe049d1623df",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "070d3df5-4ddb-401c-932f-e2031ebf43e3",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "fb2e959f-d54f-41d8-82bd-4f498d6d4e01",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "79da869c-52ce-419c-b973-dda865a773a6",
+          "deleted": false,
+          "lastModified": 1732276355548
+        }
       ],
       "id": "45473a11-52b9-44f1-85e1-f3e516a9e640",
-      "deleted": false,
-      "lastModified": 1732276339726
+      "deleted": true,
+      "lastModified": 1732276505771
     },
     {
       "name": "Ukraina",
       "isOpen": true,
       "bookmarks": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+          "id": "37a9970a-6541-4012-82d5-0c8cede70a00",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "2fb37cb6-ef09-4098-bb01-7a6bac397880",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "396781ab-6bc0-4dc9-8b4f-886ea09a07b5",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "8445f170-020d-45a7-9933-2f81673b3b0c",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "21b461d3-7ec8-4cb9-a287-65d22a498c90",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "e59e3e34-5f44-449a-9ef8-a08132177e7c",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "18f08a92-8f8d-43c0-a6d9-1721ab063198",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "9759b8b6-9d8b-4e32-a96e-6a0c791b51e3",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "259134e6-76ba-46b7-b2be-0beb81c20d1f",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "e4b740b0-046c-41ac-b6c2-04ed3641ea96",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "19654589-0d11-4a9f-9d12-4a0711584f75",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "4f88d966-47c5-4a79-876d-70d2e99cf07a",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "9403c32d-7abd-4e56-965c-b67f78cb4bf6",
+          "deleted": false,
+          "lastModified": 1732276355548
+        }
       ],
       "id": "b8f0bf69-a5cd-4960-bc85-63598d3b4440",
-      "deleted": false,
-      "lastModified": 1732276339727
+      "deleted": true,
+      "lastModified": 1732276506250
     },
     {
       "name": "Hälsa",
       "isOpen": true,
       "bookmarks": [
-        {}
+        {
+          "id": "36fecdd8-7f8c-4959-844c-c8d31e413a73",
+          "deleted": false,
+          "lastModified": 1732276355548
+        }
       ],
       "id": "10208e75-fb01-4568-a0c2-856f269b3c7a",
-      "deleted": false,
-      "lastModified": 1732276339728
+      "deleted": true,
+      "lastModified": 1732276506675
     },
     {
       "name": "Spel",
       "isOpen": true,
       "bookmarks": [
-        {}
+        {
+          "id": "c3abd8b2-ee81-4390-955b-d4785cda070c",
+          "deleted": false,
+          "lastModified": 1732276355548
+        }
       ],
       "id": "0bdd1fca-181f-4d1e-bf98-a1d9fe95f188",
-      "deleted": false,
-      "lastModified": 1732276339728
+      "deleted": true,
+      "lastModified": 1732276507090
     },
     {
       "name": "Russia",
       "isOpen": true,
       "bookmarks": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+          "id": "df7c0b54-b411-4539-9a6a-676a0eb1cf48",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "287827ab-df7a-44d8-a56e-71ef55f5e96e",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "9584f601-9c9b-4703-80d0-02f0feca8ed0",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "03165599-e4da-478d-a3cf-4e1d7571feba",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "8c123b42-0648-471b-9706-c89a1ba54022",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "cba5e8e1-a620-41d4-85f9-62119668d736",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "8d732940-614d-4a37-951e-615c4f4c8c50",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "81236b08-428b-4974-b0d4-c4cd92a2ae7d",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "eb3bf73b-596a-4226-a51b-f94e100275c4",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "212143b7-b858-4a35-8f6d-2e8cdb892984",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "ad0aa808-ccb6-41fc-84e8-4f7b684f0718",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "9750ab97-f7fd-4a63-bb5d-17d9522b6600",
+          "deleted": false,
+          "lastModified": 1732276355548
+        }
       ],
       "id": "d27d4fe6-1887-462c-bace-87644174ce71",
-      "deleted": false,
-      "lastModified": 1732276339728
+      "deleted": true,
+      "lastModified": 1732276507514
     },
     {
       "name": "Nyheter Världen",
       "isOpen": true,
       "bookmarks": [
-        {},
-        {},
-        {}
+        {
+          "id": "cc247067-f52a-44f8-9170-f4600e8b21bf",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "c6d6e536-695e-43cc-97a7-fef8de2917b8",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "6b07e617-359c-4d86-ab29-bdca2917e2f0",
+          "deleted": false,
+          "lastModified": 1732276355548
+        }
       ],
       "id": "bff0537e-8305-4c98-b5e6-652391302592",
-      "deleted": false,
-      "lastModified": 1732276339729
+      "deleted": true,
+      "lastModified": 1732276507938
     },
     {
       "name": "Electronics",
       "isOpen": true,
       "bookmarks": [
-        {},
-        {}
+        {
+          "id": "b40e7301-3b27-4d06-b9be-d086571b80e9",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "6db37fb3-3280-46c6-b908-55e329bedea1",
+          "deleted": false,
+          "lastModified": 1732276355548
+        }
       ],
       "id": "cf020845-e11a-4ad2-8b60-f877b2e61d4b",
-      "deleted": false,
-      "lastModified": 1732276339729
+      "deleted": true,
+      "lastModified": 1732276508370
     },
     {
       "name": "Art",
       "isOpen": true,
       "bookmarks": [
-        {},
-        {},
-        {},
-        {}
+        {
+          "id": "0a6e4101-2978-45af-8bfd-f7ebcf246679",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "2481dfa9-69e3-41e3-99e7-ec7765093c8d",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "5c5fe9b3-3e48-4f34-803d-d9958892cea8",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "9dcd8700-8188-4247-a0a8-5b18108fef5d",
+          "deleted": false,
+          "lastModified": 1732276355548
+        }
       ],
       "id": "a319a1c8-91c1-4771-a645-36d951a694a5",
-      "deleted": false,
-      "lastModified": 1732276339729
+      "deleted": true,
+      "lastModified": 1732276508778
     },
     {
       "name": "Mat",
       "isOpen": true,
       "bookmarks": [
-        {},
-        {},
-        {}
+        {
+          "id": "e8b90778-2189-41af-a6e0-195519c5f7a1",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "5339d528-6e30-45fe-9cb7-e5e24fd9a86d",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "17f84a71-b603-4b56-a53f-87c5a1ab3e0c",
+          "deleted": false,
+          "lastModified": 1732276355548
+        }
       ],
       "id": "c7a81a10-4bb5-4e9a-8d4f-f6081c11d77b",
-      "deleted": false,
-      "lastModified": 1732276339729
+      "deleted": true,
+      "lastModified": 1732276509163
     },
     {
       "name": "Säkerhet",
       "isOpen": true,
       "bookmarks": [
-        {},
-        {}
+        {
+          "id": "dcd6078c-29c6-4766-a0f0-242eaf90b026",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "f5c1978e-3f51-45e1-9085-2f1e35b3b202",
+          "deleted": false,
+          "lastModified": 1732276355548
+        }
       ],
       "id": "bac3203a-0aa0-4b00-be81-028111c2fbae",
-      "deleted": false,
-      "lastModified": 1732276339729
+      "deleted": true,
+      "lastModified": 1732276509603
     },
     {
       "name": "Språk",
       "isOpen": true,
       "bookmarks": [
-        {}
+        {
+          "id": "05059aaa-56a1-412e-a821-9dbfe4c4ea28",
+          "deleted": false,
+          "lastModified": 1732276355548
+        }
       ],
       "id": "9f6a7c1e-cb76-4f12-8c00-1309386cf186",
-      "deleted": false,
-      "lastModified": 1732276339730
+      "deleted": true,
+      "lastModified": 1732276510090
     },
     {
       "name": "Databases",
       "isOpen": true,
       "bookmarks": [
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+          "id": "fb4c0e02-266d-4ffd-9552-df62135a9843",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "26ae0bf1-3e73-476f-8e4e-7af42ab19a99",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "55aed7f6-4236-4152-9e74-a635c552f928",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "fd298c3c-7f59-43d5-bc26-dce27ad2fc20",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "10c540fc-8ffe-4f6a-ac7d-849b1ef65bf6",
+          "deleted": false,
+          "lastModified": 1732276355548
+        }
       ],
       "id": "8c6f6248-58e6-4923-bf2c-ea308df45c61",
-      "deleted": false,
-      "lastModified": 1732276339730
+      "deleted": true,
+      "lastModified": 1732276510514
     },
     {
       "name": "Film & TV",
       "isOpen": true,
       "bookmarks": [
-        {},
-        {}
+        {
+          "id": "f134553c-09fc-40b6-bac1-f80353740871",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "40f1afcb-9958-4ab0-bfd7-bbb354733c48",
+          "deleted": false,
+          "lastModified": 1732276355548
+        }
       ],
       "id": "fa3d5be8-9dc2-469c-b392-0aee7668c09a",
-      "deleted": false,
-      "lastModified": 1732276339730
+      "deleted": true,
+      "lastModified": 1732276510946
     },
     {
       "name": "Läsbart",
       "isOpen": true,
       "bookmarks": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+          "id": "63485355-e7c3-461f-ad26-dbfdef936968",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "58a136e6-951a-4655-934f-97eebb0f6b52",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "055a96df-9221-4bff-a527-82ebcf638958",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "dd1a2961-3c02-49b4-9fe1-111232cff329",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "2869fa40-abc5-4f40-b06b-9579e39f84dd",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "13c1cd6c-a3bb-417b-9d07-4ab15c7c7257",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "86dc295c-8109-46b2-b136-c57ab79a0dfa",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "bf22abb1-e263-408c-84a4-eb63fd8a9e80",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "a50a15dd-7d16-4f7d-a26a-05ab02e2c123",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "71e7fa00-439a-4afb-ac19-ba94ef63aa7e",
+          "deleted": false,
+          "lastModified": 1732276355548
+        }
       ],
       "id": "1aac65c3-d06d-4abd-9fff-bcb5426f980f",
-      "deleted": false,
-      "lastModified": 1732276339730
+      "deleted": true,
+      "lastModified": 1732276511370
     },
     {
       "name": "Spabad",
       "isOpen": true,
       "bookmarks": [
-        {},
-        {},
-        {}
+        {
+          "id": "055601db-9d69-4dbd-9956-e8ab903ab56d",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "88d01c1b-2ada-413a-b0a4-3c3a5f53271e",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "6180f6ab-81ba-478d-b7ad-da3d4cb5b328",
+          "deleted": false,
+          "lastModified": 1732276355548
+        }
       ],
       "id": "ccd9e121-e02d-4c86-a9f5-891b49566dc0",
-      "deleted": false,
-      "lastModified": 1732276339731
+      "deleted": true,
+      "lastModified": 1732276511795
     },
     {
       "name": "Mind",
       "isOpen": true,
       "bookmarks": [
-        {},
-        {}
+        {
+          "id": "e6f14635-05c7-46b2-b70e-2f3b86d5f38e",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "25543bed-8e68-4109-9ad8-33add49f7b3d",
+          "deleted": false,
+          "lastModified": 1732276355548
+        }
       ],
       "id": "134f2ade-55f8-4b3b-b14c-a05377c4d257",
-      "deleted": false,
-      "lastModified": 1732276339731
+      "deleted": true,
+      "lastModified": 1732276512202
     },
     {
       "name": "Telefon",
       "isOpen": true,
       "bookmarks": [
-        {}
+        {
+          "id": "aa207002-e21b-47a1-b03d-50a8b077ad96",
+          "deleted": false,
+          "lastModified": 1732276355548
+        }
       ],
       "id": "d75d6dd2-e40d-4855-a3ab-f32c610c5178",
-      "deleted": false,
-      "lastModified": 1732276339731
+      "deleted": true,
+      "lastModified": 1732276512610
     },
     {
       "name": "Ljud",
       "isOpen": true,
       "bookmarks": [
-        {},
-        {},
-        {}
+        {
+          "id": "6c815f0e-ee96-4a41-9048-49e16a94ca01",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "0c64f5a6-6a8f-4d71-9f92-9bee378ca688",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "3a5368a7-fa72-4eef-9c4f-9aa7ad3a5a42",
+          "deleted": false,
+          "lastModified": 1732276355548
+        }
       ],
       "id": "8987882d-2b22-4089-9b2e-167acdf4ef29",
-      "deleted": false,
-      "lastModified": 1732276339731
+      "deleted": true,
+      "lastModified": 1732276513051
     },
     {
       "name": "Omvrådesanalys",
       "isOpen": true,
       "bookmarks": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+          "id": "b50774fe-c883-4f74-9a1e-4b93d537bfbf",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "dd8f77be-9ebd-48f2-ae0b-05ca0742019e",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "5822134f-25a0-4198-a0f2-5295df9dcfe0",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "55695cd1-81f7-458a-a750-f1da403231e8",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "42b7b637-40d6-4b69-b2b3-52a4aff29935",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "bb09cd75-1ac4-4b98-8dfc-062ef472ce7d",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "b87e3da9-93d6-4892-b2d8-579dfd867afc",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "54eed099-30f0-4f0e-aec3-8be2edbe53e9",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "c29afe8b-0e46-4e53-a2e5-3d722eb4013d",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "b654b1c8-87b2-45e0-b4d3-037d2fbd9281",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "32649a4c-414a-4217-8527-c8b512fef2ff",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "bcbfcf9f-d9a0-4da5-81f2-601757c8cb33",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "5ad135fc-4a31-4ff0-b4a2-3012efbee492",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "0f5667dd-38db-4557-b64e-6efc1f4e37a3",
+          "deleted": false,
+          "lastModified": 1732276355548
+        }
       ],
       "id": "4cee738b-5f47-4fd2-81ae-70f3f7a25831",
-      "deleted": false,
-      "lastModified": 1732276339731
+      "deleted": true,
+      "lastModified": 1732276513491
     },
     {
       "name": "Google",
       "isOpen": true,
       "bookmarks": [
-        {},
-        {},
-        {}
+        {
+          "id": "1541d453-cf73-490f-9e01-02f8f92b05cd",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "a1ce2504-1708-48d9-974e-6fc8d56130e1",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "ceef188f-82af-4ff2-9247-5d79b4de2aed",
+          "deleted": false,
+          "lastModified": 1732276355548
+        }
       ],
       "id": "88b743da-22fc-489f-a050-1736413932f1",
-      "deleted": false,
-      "lastModified": 1732276339732
+      "deleted": true,
+      "lastModified": 1732276513962
     },
     {
       "name": "Linux",
       "isOpen": true,
       "bookmarks": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+          "id": "88355349-bb81-4db8-bd8c-053dadf38d67",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "9a374356-68b1-43a1-86bf-550f960e22db",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "84ee964a-d704-4305-85fa-12d6fe0d514b",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "a978348a-b2dc-468d-b37e-005375d0c9b8",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "792f009e-3e6f-49cb-9356-f1cf5926dae6",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "0f64c812-3952-40a7-9d71-af58ed37e7e9",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "62ba30b0-afee-4825-8b95-bf0421b9a37e",
+          "deleted": false,
+          "lastModified": 1732276355548
+        }
       ],
       "id": "3cef59b5-f2dd-40b5-86f9-798c1ba56c8a",
-      "deleted": false,
-      "lastModified": 1732276339732
+      "deleted": true,
+      "lastModified": 1732276514483
     },
     {
       "name": "Schoolish",
       "isOpen": true,
       "bookmarks": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+          "id": "7eff171b-b555-4dcc-bdb8-c9ff6d071796",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "16230af9-d52d-48d3-9571-76096d9acda5",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "b0d6611e-9267-4048-95bf-fc5c6c292a38",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "8a797715-ddce-4ce5-8966-58cb78760860",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "c94dd54c-3e40-42f1-b938-a3225c0cd117",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "0afad605-33fd-4758-9dd5-b3c3116957ab",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "226daa80-636d-4488-b49a-c429b6113b33",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "a6bdc768-0766-4694-992b-da315d976639",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "e4b0f10f-a6fc-48a4-8b20-b97b3f6e9fd9",
+          "deleted": false,
+          "lastModified": 1732276355548
+        }
       ],
       "id": "1a0a08e5-c412-4048-8272-afa7ff4f6d35",
-      "deleted": false,
-      "lastModified": 1732276339732
+      "deleted": true,
+      "lastModified": 1732276514946
     },
     {
       "name": "Verktyg",
       "isOpen": true,
       "bookmarks": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+          "id": "b52e9f10-fce2-4e1d-b89c-a32317e55ad4",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "d8dd9a1a-6746-4438-a282-ad3b729b530e",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "32b9c49d-2176-4695-8edf-bbe5d66f70c0",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "085d073c-2e7e-46e8-a0c9-987d4e9583c3",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "5bf5817e-44ed-47d4-a6f5-476d017d9c46",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "bfb4c9ea-6e9a-4de2-963c-c3f4c46d9c72",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "7c2cb681-105e-4ec2-9aa7-bb00adb333ed",
+          "deleted": false,
+          "lastModified": 1732276355548
+        }
       ],
       "id": "5f98c7e7-4dde-476f-954f-6db0ece262ea",
-      "deleted": false,
-      "lastModified": 1732276339733
+      "deleted": true,
+      "lastModified": 1732276515403
     },
     {
       "name": "Retrocoding - c64",
       "isOpen": true,
       "bookmarks": [
-        {},
-        {},
-        {},
-        {}
+        {
+          "id": "493da1fb-6a9d-41d2-8171-ce9ef1f76cdb",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "3fc6d22b-5bd9-4972-b0b9-bd1eaa89b9f7",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "62f57393-d210-4286-bb00-8208be251905",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "beda1262-34c6-42a2-8497-8b5c188394a2",
+          "deleted": false,
+          "lastModified": 1732276355548
+        }
       ],
       "id": "4b569b6b-0967-4999-9322-009470703669",
-      "deleted": false,
-      "lastModified": 1732276339733
+      "deleted": true,
+      "lastModified": 1732276515851
     },
     {
       "name": "C#",
       "isOpen": true,
       "bookmarks": [
-        {},
-        {}
+        {
+          "id": "668ac908-fb83-4dc2-ac01-839f18992540",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "03aeaad4-5b3c-41e5-b3db-b1efe3d70cb7",
+          "deleted": false,
+          "lastModified": 1732276355548
+        }
       ],
       "id": "534a504d-ec91-442a-a939-bc6c9ad2548d",
-      "deleted": false,
-      "lastModified": 1732276339733
+      "deleted": true,
+      "lastModified": 1732276516322
     },
     {
       "name": "Sourcecode",
       "isOpen": true,
       "bookmarks": [
-        {},
-        {}
+        {
+          "id": "3ac2241c-5058-45be-af2d-34ad8f148c01",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "2b94071b-8ce6-46e8-aaf7-de8d4a575435",
+          "deleted": false,
+          "lastModified": 1732276355548
+        }
       ],
       "id": "bb572ce2-ec92-4bc3-b6e2-64847f789e13",
-      "deleted": false,
-      "lastModified": 1732276339733
+      "deleted": true,
+      "lastModified": 1732276516779
     },
     {
       "name": "CodeFun",
       "isOpen": true,
       "bookmarks": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+          "id": "dabf25d2-3229-4d64-b854-7067bd284d1b",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "679b77a2-f275-415e-8c8c-fa98d617f72f",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "888c408d-ee01-43b5-8cb9-06dc0775474b",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "a6848491-4ee8-44dd-ae25-b1ff2dd18ba7",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "c2a828c6-b3b5-4156-9586-9e5247a5c6c6",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "31227772-8eb3-4a26-b16b-869f16387028",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "6ad04ffb-54fa-4a63-95bd-d9df89ddc32f",
+          "deleted": false,
+          "lastModified": 1732276355548
+        }
       ],
       "id": "1cef2e87-f8f8-4a22-a706-82d1ed85c0a8",
-      "deleted": false,
-      "lastModified": 1732276339733
+      "deleted": true,
+      "lastModified": 1732276517266
     },
     {
       "name": "Javascript, HTML5",
       "isOpen": true,
       "bookmarks": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+          "id": "5f9a7724-db7d-47e7-8916-daac0af3e91e",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "58ced542-18cd-4282-b555-571947c55b13",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "42a414b7-22f3-43ec-a35c-c1530ce66e4d",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "23f0bcea-859d-4bfc-9a01-259ca01899b1",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "fbf8da08-3612-424b-b89f-4d5fecabcc9b",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "51cdd880-46e8-49f0-9a91-713263f67bd8",
+          "deleted": false,
+          "lastModified": 1732276355548
+        }
       ],
       "id": "14e7f88e-7c89-469b-a564-b30bef2b5944",
-      "deleted": false,
-      "lastModified": 1732276339734
+      "deleted": true,
+      "lastModified": 1732276517826
     },
     {
       "name": "SGP611",
       "isOpen": true,
       "bookmarks": [
-        {},
-        {},
-        {},
-        {}
+        {
+          "id": "a6188de7-02fc-4dea-af64-bd251d4f8f5a",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "4f9b3de0-396b-47a2-90f0-f2ecd4e39d98",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "b79b028e-b2e0-4015-977a-23b2193c692a",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "75ac237b-a7e9-458b-88f8-9041cac849f9",
+          "deleted": false,
+          "lastModified": 1732276355548
+        }
       ],
       "id": "03ea93f4-2750-437c-8348-70ba2b278a32",
-      "deleted": false,
-      "lastModified": 1732276339734
+      "deleted": true,
+      "lastModified": 1732276518386
     },
     {
       "name": "TCP/IP/WWW",
       "isOpen": true,
       "bookmarks": [
-        {},
-        {},
-        {},
-        {}
+        {
+          "id": "d6eddda6-b982-493d-9fb9-44c784349852",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "e8cd015a-1ea9-4d0f-ae89-49deae55b270",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "4058301b-1b5c-4636-89e8-d40aff461911",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "0beb35ee-e81d-4659-936d-6097a7856bd1",
+          "deleted": false,
+          "lastModified": 1732276355548
+        }
       ],
       "id": "27155f53-e4cf-4b5a-ab10-c3d3c71b7203",
-      "deleted": false,
-      "lastModified": 1732276339734
+      "deleted": true,
+      "lastModified": 1732276518954
     },
     {
       "name": "ResourcesGame",
       "isOpen": true,
       "bookmarks": [
-        {},
-        {}
+        {
+          "id": "6a2d8015-9ab2-4df7-bb2a-5b9200fa3518",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "44570516-e2af-49aa-8d5c-2c87b580f77c",
+          "deleted": false,
+          "lastModified": 1732276355548
+        }
       ],
       "id": "5bdc0b08-5b7e-42c7-a9e0-9cdb25aa0916",
-      "deleted": false,
-      "lastModified": 1732276339734
+      "deleted": true,
+      "lastModified": 1732276519531
     },
     {
       "name": "Fileshare",
       "isOpen": true,
       "bookmarks": [
-        {}
+        {
+          "id": "ae611e15-8f6f-4e61-b868-5ddaa1b26f24",
+          "deleted": false,
+          "lastModified": 1732276355548
+        }
       ],
       "id": "34f62eeb-a3e6-4556-83d6-d4f42c7df712",
-      "deleted": false,
-      "lastModified": 1732276339734
+      "deleted": true,
+      "lastModified": 1732276520122
     },
     {
       "name": "C++",
       "isOpen": true,
       "bookmarks": [
-        {},
-        {}
+        {
+          "id": "29e492b7-0ca2-4d7c-8d4b-f8c22c23b58e",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "6f23d33a-d368-46a4-8eb3-bfe9280e9e23",
+          "deleted": false,
+          "lastModified": 1732276355548
+        }
       ],
       "id": "6c99c8ea-fc38-4181-b75b-c54b76559551",
-      "deleted": false,
-      "lastModified": 1732276339734
+      "deleted": true,
+      "lastModified": 1732276520642
     },
     {
       "name": "Regex",
       "isOpen": true,
       "bookmarks": [
-        {},
-        {}
+        {
+          "id": "5225a5a9-6ece-48d4-8df6-7055bd278d9c",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "c649c6df-9bd2-4511-a1ed-e69935934133",
+          "deleted": false,
+          "lastModified": 1732276355548
+        }
       ],
       "id": "e178fc7b-42ca-4303-b434-7e097e6d7a2c",
-      "deleted": false,
-      "lastModified": 1732276339734
+      "deleted": true,
+      "lastModified": 1732276521146
     },
     {
       "name": "Lifestylish",
       "isOpen": true,
       "bookmarks": [
-        {}
+        {
+          "id": "398700fc-aedf-4d6c-8066-e751e6210d7d",
+          "deleted": false,
+          "lastModified": 1732276355548
+        }
       ],
       "id": "2f8ec5ea-dbb8-4683-99cd-12d1d8c74eef",
-      "deleted": false,
-      "lastModified": 1732276339735
+      "deleted": true,
+      "lastModified": 1732276521595
     },
     {
       "name": "Licenses",
       "isOpen": true,
       "bookmarks": [
-        {}
+        {
+          "id": "efcfaecd-9824-43bd-8441-f39a4efa335a",
+          "deleted": false,
+          "lastModified": 1732276355548
+        }
       ],
       "id": "c7d570df-a87d-4fba-8d75-f0e03e602d8e",
-      "deleted": false,
-      "lastModified": 1732276339735
+      "deleted": true,
+      "lastModified": 1732276522083
     },
     {
       "name": "Piracy",
       "isOpen": true,
       "bookmarks": [
-        {},
-        {},
-        {}
+        {
+          "id": "90e34469-afc3-4daf-8fea-d81fe6aa511a",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "e5c3ef94-027d-48a4-ab04-a9d42cb4816d",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "b3038feb-7cf7-4e99-ae4b-0a78ce03b590",
+          "deleted": false,
+          "lastModified": 1732276355548
+        }
       ],
       "id": "3b70a58e-afa1-4ce8-88df-36195dbf962d",
-      "deleted": false,
-      "lastModified": 1732276339735
+      "deleted": true,
+      "lastModified": 1732276522570
     },
     {
       "name": "Collections",
       "isOpen": true,
       "bookmarks": [
-        {},
-        {}
+        {
+          "id": "c34d7426-292f-48e3-bffb-78549ba058be",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "02c3616a-bcf1-471d-850a-de71d57a5240",
+          "deleted": false,
+          "lastModified": 1732276355548
+        }
       ],
       "id": "c0bd9f23-3109-4a8c-a4e2-928534940e9c",
-      "deleted": false,
-      "lastModified": 1732276339735
+      "deleted": true,
+      "lastModified": 1732276523763
     },
     {
       "name": "Movex",
       "isOpen": true,
       "bookmarks": [
-        {},
-        {}
+        {
+          "id": "0855931d-07ff-4e5a-9f02-380c34cd948b",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "053c8a84-e437-42ac-a289-5daf262891e0",
+          "deleted": false,
+          "lastModified": 1732276355548
+        }
       ],
       "id": "8ccd6451-bbde-4abc-a7a6-1401469a541b",
-      "deleted": false,
-      "lastModified": 1732276339735
+      "deleted": true,
+      "lastModified": 1732276524667
     },
     {
       "name": "Project-Origo",
       "isOpen": true,
       "bookmarks": [
-        {},
-        {},
-        {}
+        {
+          "id": "f76368a1-4f7b-4806-bed4-4bd458d81327",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "f09ff380-507f-4754-91ad-d76aa0de4e44",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "3d48b2e3-1a36-42c4-8471-fee7b599c8ce",
+          "deleted": false,
+          "lastModified": 1732276355548
+        }
       ],
       "id": "e82e7468-24b4-4343-8a70-83992c2b82fb",
-      "deleted": false,
-      "lastModified": 1732276339735
+      "deleted": true,
+      "lastModified": 1732276525595
     },
     {
       "name": "Sweco",
       "isOpen": true,
       "bookmarks": [
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+          "id": "c9e985f7-2164-42a7-882d-77d235bcc0f7",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "27c8e0e4-623f-4d05-8bd5-d72748d21868",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "7a9ea9fa-321c-42ce-b771-d7a80fb8ac57",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "029675bc-12d1-4bd2-886b-e3c052a744a5",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "a44c677e-eb5e-42a2-be89-c6c7fb412ea3",
+          "deleted": false,
+          "lastModified": 1732276355548
+        }
       ],
       "id": "fb2fbdc6-bf2b-4360-8984-6356d6a0c112",
-      "deleted": false,
-      "lastModified": 1732276339735
+      "deleted": true,
+      "lastModified": 1732276526387
     },
     {
       "name": "Saft",
       "isOpen": true,
       "bookmarks": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+          "id": "ccd9b2fa-c134-463a-bc52-89096e535569",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "4f5e6e6c-6f97-45b7-9a07-dd58da5609f5",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "7d1118f6-afd6-42b8-bdcb-47e2ecc10a19",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "96d90f7e-a673-426e-88ed-99f580b73efc",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "6d45bea4-ad61-4139-99e5-ae3c66021a68",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "6000e4cc-2f4b-461a-be51-d1bfcb38ea00",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "fa3d607c-0be5-4118-90f2-d3b19c16273a",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "ad149b8d-78d4-45df-b4f8-a0a63453448c",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "21499614-baa3-48e9-b440-3c0eca52baa7",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "b69f96b1-38e5-4556-bf22-318220568e02",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "26e3378b-f995-4e41-b30b-1db1c0e4071e",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "fb642609-2ad0-4da5-b0af-74f079c21bd1",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "bc373330-a0a1-4ee2-927d-734304f06332",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "dc692979-f331-4bd1-98fb-0418a2728082",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "df047652-976b-4fee-b6af-a79e32787b87",
+          "deleted": false,
+          "lastModified": 1732276355548
+        }
       ],
       "id": "2addcddd-63b3-4ae9-bdeb-2410030a144b",
-      "deleted": false,
-      "lastModified": 1732276339735
+      "deleted": true,
+      "lastModified": 1732276527067
     },
     {
       "name": "TheFileNinja",
       "isOpen": true,
       "bookmarks": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+          "id": "549c0975-d68b-4533-8b29-0d25a1b181ee",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "a427d200-cd8b-4245-a91e-29c7cb222ae0",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "f118c19b-ea87-4fd5-b140-5b7b4ab7a9cf",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "b67e07dc-39dc-48eb-b087-195778cb5efd",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "49f90826-5268-465f-bcd9-32f1e1114975",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "1450d038-29b6-4d2b-834d-18f5ae04e8e1",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "cafec48a-d8ff-47da-bf6d-a8a226aac87a",
+          "deleted": false,
+          "lastModified": 1732276355548
+        }
       ],
       "id": "e52cce23-926e-483b-8af0-a238d4277e64",
-      "deleted": false,
-      "lastModified": 1732276339736
+      "deleted": true,
+      "lastModified": 1732276527810
     },
     {
       "name": "AI Chats",
       "isOpen": true,
       "bookmarks": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+          "id": "7c28cd8d-2952-4e0e-869c-be63cee03e81",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "975106c1-ef68-4b68-aac8-4c88aa8607a6",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "a6e4120f-53a9-4310-81c1-cc55d74bc40b",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "09763744-0ad0-4499-9c32-9e89b191c981",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "c177441b-bc9c-4967-a95c-5e7ead14fd39",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "1e92d4b1-c9a1-4322-a1b2-ebb95c5589d9",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "88e049de-7824-426d-af23-fc4982badca5",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "a9c73354-a69e-44f5-a89b-a28ef6a9133c",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "a389f89b-8bdf-430e-a3ea-dc28c04cf41f",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "e5218dbd-78f9-4f8d-b0f1-d54ae2422f82",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "d0ca73ea-8c16-448c-bc21-f14fa1ce6243",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "0b5dc81b-af5a-4233-bc89-c988e0acaa62",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "4f656fd0-bf14-4c45-92f8-056e4ac99eb5",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "e152b729-5eb7-40fa-9fa3-4decb9f8f5e3",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "b8c9858c-4918-4953-b9ef-35b342369051",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "ceeef4cd-19cb-45b1-a45e-db69b3cd3258",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "963b3593-3f5f-4e39-aca1-f5761202f29c",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "ba0d32b5-cdf0-44e9-8fcf-d8dc4c62c10e",
+          "deleted": false,
+          "lastModified": 1732276355548
+        },
+        {
+          "id": "6679fa1a-a8a6-4212-9d07-11e43830646f",
+          "deleted": false,
+          "lastModified": 1732276355548
+        }
       ],
       "id": "cefcd58e-5a13-436c-901c-0eba9a8c08c1",
+      "deleted": true,
+      "lastModified": 1732276528514
+    },
+    {
+      "id": "ecd6e64c-fb68-4732-bf48-29bcef1ac451",
+      "name": "Favoriter",
+      "isOpen": true,
+      "lastModified": 1732276603274,
       "deleted": false,
-      "lastModified": 1732276339736
+      "position": 50,
+      "bookmarks": [
+        {
+          "id": "791cb86d-82df-4781-b90d-3f7636a32b91",
+          "title": "Nyheter från Sveriges största nyhetssajt",
+          "url": "https://www.aftonbladet.se/",
+          "description": "",
+          "icon": "https://www.aftonbladet.se/web-assets/favicon-8447eb68/favicon.ico",
+          "lastModified": 1732276541183,
+          "deleted": false
+        },
+        {
+          "id": "a466acc6-421d-467e-8a91-b3dad2b02a1d",
+          "title": "Nyheter - senaste nyheterna i Sverige och världen",
+          "url": "https://www.expressen.se/",
+          "description": "",
+          "icon": "https://static.bonniernews.se/bundles/expressen/images/favicon.ico",
+          "lastModified": 1732276603274,
+          "deleted": false
+        }
+      ]
     }
   ],
   "githubConfig": {
