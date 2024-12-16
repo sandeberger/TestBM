@@ -4,21 +4,42 @@
   "chromeWindowStates": {},
   "collections": [
     {
-      "id": "939c965c-0303-4180-a5d6-3801e324857e",
-      "name": "Test",
+      "id": "ecd6e64c-fb68-4732-bf48-29bcef1ac451",
+      "name": "Favoriter",
       "isOpen": true,
-      "lastModified": 1734336030996,
+      "lastModified": 1734336408406,
       "deleted": false,
       "position": 0,
       "bookmarks": [
+        {
+          "id": "a466acc6-421d-467e-8a91-b3dad2b02a1d",
+          "title": "Nyheter - senaste nyheterna i Sverige och världen",
+          "url": "https://www.expressen.se/",
+          "description": "",
+          "icon": "https://static.bonniernews.se/bundles/expressen/images/favicon.ico",
+          "lastModified": 1734336373069,
+          "deleted": false,
+          "position": 0
+        },
         {
           "id": "ba94c7a4-9624-4b9b-b578-aa1257e24463",
           "title": "(466) YouTube",
           "url": "https://www.youtube.com/",
           "description": "",
           "icon": "https://www.youtube.com/s/desktop/b61fbcbd/img/logos/favicon_32x32.png",
-          "lastModified": 1732276678013,
-          "deleted": false
+          "lastModified": 1734336373069,
+          "deleted": false,
+          "position": 1
+        },
+        {
+          "id": "791cb86d-82df-4781-b90d-3f7636a32b91",
+          "title": "Nyheter från Sveriges största nyhetssajt",
+          "url": "https://www.aftonbladet.se/",
+          "description": "",
+          "icon": "https://www.aftonbladet.se/web-assets/favicon-8447eb68/favicon.ico",
+          "lastModified": 1734336373069,
+          "deleted": false,
+          "position": 2
         }
       ]
     },
@@ -89,8 +110,27 @@
       ],
       "id": "9db67616-3790-4755-ba12-13fff2df2168",
       "deleted": true,
-      "lastModified": 1734336030996,
+      "lastModified": 1734336408406,
       "position": 1
+    },
+    {
+      "id": "939c965c-0303-4180-a5d6-3801e324857e",
+      "name": "Test",
+      "isOpen": true,
+      "lastModified": 1734336408406,
+      "deleted": false,
+      "position": 2,
+      "bookmarks": [
+        {
+          "id": "ba94c7a4-9624-4b9b-b578-aa1257e24463",
+          "title": "(466) YouTube",
+          "url": "https://www.youtube.com/",
+          "description": "",
+          "icon": "https://www.youtube.com/s/desktop/b61fbcbd/img/logos/favicon_32x32.png",
+          "lastModified": 1732276678013,
+          "deleted": false
+        }
+      ]
     },
     {
       "name": "AI Music, Speech & Sound",
@@ -119,8 +159,8 @@
       ],
       "id": "dfce7ee7-1058-48f5-9d05-5aa9c32ae499",
       "deleted": true,
-      "lastModified": 1734336030996,
-      "position": 2
+      "lastModified": 1734336408406,
+      "position": 3
     },
     {
       "name": "AI Verktyg",
@@ -134,8 +174,8 @@
       ],
       "id": "5f89016a-9219-4963-a1a4-4f82fee18273",
       "deleted": true,
-      "lastModified": 1734336030996,
-      "position": 3
+      "lastModified": 1734336408406,
+      "position": 4
     },
     {
       "name": "AI Promt Engineering",
@@ -164,8 +204,8 @@
       ],
       "id": "71a549eb-0ce7-4d0a-a9fa-b6104c221687",
       "deleted": true,
-      "lastModified": 1734336030996,
-      "position": 4
+      "lastModified": 1734336408406,
+      "position": 5
     },
     {
       "name": "Botek",
@@ -209,8 +249,8 @@
       ],
       "id": "c3148617-1540-46cc-84e8-30e5e1704f7f",
       "deleted": true,
-      "lastModified": 1734336030996,
-      "position": 5
+      "lastModified": 1734336408406,
+      "position": 6
     },
     {
       "name": "Sociala medier",
@@ -284,8 +324,8 @@
       ],
       "id": "503de616-6072-4a57-ae12-ebc4b58e2afd",
       "deleted": true,
-      "lastModified": 1734336030996,
-      "position": 6
+      "lastModified": 1734336408406,
+      "position": 7
     },
     {
       "name": "News",
@@ -384,8 +424,8 @@
       ],
       "id": "45473a11-52b9-44f1-85e1-f3e516a9e640",
       "deleted": true,
-      "lastModified": 1734336030996,
-      "position": 7
+      "lastModified": 1734336408406,
+      "position": 8
     },
     {
       "name": "Ukraina",
@@ -459,8 +499,8 @@
       ],
       "id": "b8f0bf69-a5cd-4960-bc85-63598d3b4440",
       "deleted": true,
-      "lastModified": 1734336030996,
-      "position": 8
+      "lastModified": 1734336408406,
+      "position": 9
     },
     {
       "name": "Hälsa",
@@ -474,8 +514,8 @@
       ],
       "id": "10208e75-fb01-4568-a0c2-856f269b3c7a",
       "deleted": true,
-      "lastModified": 1734336030996,
-      "position": 9
+      "lastModified": 1734336408406,
+      "position": 10
     },
     {
       "name": "Spel",
@@ -489,8 +529,8 @@
       ],
       "id": "0bdd1fca-181f-4d1e-bf98-a1d9fe95f188",
       "deleted": true,
-      "lastModified": 1734336030996,
-      "position": 10
+      "lastModified": 1734336408406,
+      "position": 11
     },
     {
       "name": "Russia",
@@ -559,8 +599,8 @@
       ],
       "id": "d27d4fe6-1887-462c-bace-87644174ce71",
       "deleted": true,
-      "lastModified": 1734336030996,
-      "position": 11
+      "lastModified": 1734336408406,
+      "position": 12
     },
     {
       "name": "Nyheter Världen",
@@ -584,8 +624,8 @@
       ],
       "id": "bff0537e-8305-4c98-b5e6-652391302592",
       "deleted": true,
-      "lastModified": 1734336030996,
-      "position": 12
+      "lastModified": 1734336408406,
+      "position": 13
     },
     {
       "name": "Electronics",
@@ -604,8 +644,8 @@
       ],
       "id": "cf020845-e11a-4ad2-8b60-f877b2e61d4b",
       "deleted": true,
-      "lastModified": 1734336030996,
-      "position": 13
+      "lastModified": 1734336408406,
+      "position": 14
     },
     {
       "name": "Art",
@@ -634,8 +674,8 @@
       ],
       "id": "a319a1c8-91c1-4771-a645-36d951a694a5",
       "deleted": true,
-      "lastModified": 1734336030996,
-      "position": 14
+      "lastModified": 1734336408406,
+      "position": 15
     },
     {
       "name": "Mat",
@@ -659,8 +699,8 @@
       ],
       "id": "c7a81a10-4bb5-4e9a-8d4f-f6081c11d77b",
       "deleted": true,
-      "lastModified": 1734336030996,
-      "position": 15
+      "lastModified": 1734336408406,
+      "position": 16
     },
     {
       "name": "Säkerhet",
@@ -679,8 +719,8 @@
       ],
       "id": "bac3203a-0aa0-4b00-be81-028111c2fbae",
       "deleted": true,
-      "lastModified": 1734336030996,
-      "position": 16
+      "lastModified": 1734336408406,
+      "position": 17
     },
     {
       "name": "Språk",
@@ -694,8 +734,8 @@
       ],
       "id": "9f6a7c1e-cb76-4f12-8c00-1309386cf186",
       "deleted": true,
-      "lastModified": 1734336030996,
-      "position": 17
+      "lastModified": 1734336408406,
+      "position": 18
     },
     {
       "name": "Databases",
@@ -729,8 +769,8 @@
       ],
       "id": "8c6f6248-58e6-4923-bf2c-ea308df45c61",
       "deleted": true,
-      "lastModified": 1734336030996,
-      "position": 18
+      "lastModified": 1734336408406,
+      "position": 19
     },
     {
       "name": "Film & TV",
@@ -749,8 +789,8 @@
       ],
       "id": "fa3d5be8-9dc2-469c-b392-0aee7668c09a",
       "deleted": true,
-      "lastModified": 1734336030996,
-      "position": 19
+      "lastModified": 1734336408406,
+      "position": 20
     },
     {
       "name": "Läsbart",
@@ -809,8 +849,8 @@
       ],
       "id": "1aac65c3-d06d-4abd-9fff-bcb5426f980f",
       "deleted": true,
-      "lastModified": 1734336030996,
-      "position": 20
+      "lastModified": 1734336408406,
+      "position": 21
     },
     {
       "name": "Spabad",
@@ -834,8 +874,8 @@
       ],
       "id": "ccd9e121-e02d-4c86-a9f5-891b49566dc0",
       "deleted": true,
-      "lastModified": 1734336030996,
-      "position": 21
+      "lastModified": 1734336408406,
+      "position": 22
     },
     {
       "name": "Mind",
@@ -854,8 +894,8 @@
       ],
       "id": "134f2ade-55f8-4b3b-b14c-a05377c4d257",
       "deleted": true,
-      "lastModified": 1734336030996,
-      "position": 22
+      "lastModified": 1734336408406,
+      "position": 23
     },
     {
       "name": "Telefon",
@@ -869,8 +909,8 @@
       ],
       "id": "d75d6dd2-e40d-4855-a3ab-f32c610c5178",
       "deleted": true,
-      "lastModified": 1734336030996,
-      "position": 23
+      "lastModified": 1734336408406,
+      "position": 24
     },
     {
       "name": "Ljud",
@@ -894,8 +934,8 @@
       ],
       "id": "8987882d-2b22-4089-9b2e-167acdf4ef29",
       "deleted": true,
-      "lastModified": 1734336030996,
-      "position": 24
+      "lastModified": 1734336408406,
+      "position": 25
     },
     {
       "name": "Omvrådesanalys",
@@ -974,8 +1014,8 @@
       ],
       "id": "4cee738b-5f47-4fd2-81ae-70f3f7a25831",
       "deleted": true,
-      "lastModified": 1734336030996,
-      "position": 25
+      "lastModified": 1734336408406,
+      "position": 26
     },
     {
       "name": "Google",
@@ -999,8 +1039,8 @@
       ],
       "id": "88b743da-22fc-489f-a050-1736413932f1",
       "deleted": true,
-      "lastModified": 1734336030996,
-      "position": 26
+      "lastModified": 1734336408406,
+      "position": 27
     },
     {
       "name": "Linux",
@@ -1044,8 +1084,8 @@
       ],
       "id": "3cef59b5-f2dd-40b5-86f9-798c1ba56c8a",
       "deleted": true,
-      "lastModified": 1734336030996,
-      "position": 27
+      "lastModified": 1734336408406,
+      "position": 28
     },
     {
       "name": "Schoolish",
@@ -1099,8 +1139,8 @@
       ],
       "id": "1a0a08e5-c412-4048-8272-afa7ff4f6d35",
       "deleted": true,
-      "lastModified": 1734336030996,
-      "position": 28
+      "lastModified": 1734336408406,
+      "position": 29
     },
     {
       "name": "Verktyg",
@@ -1144,8 +1184,8 @@
       ],
       "id": "5f98c7e7-4dde-476f-954f-6db0ece262ea",
       "deleted": true,
-      "lastModified": 1734336030996,
-      "position": 29
+      "lastModified": 1734336408406,
+      "position": 30
     },
     {
       "name": "Retrocoding - c64",
@@ -1174,8 +1214,8 @@
       ],
       "id": "4b569b6b-0967-4999-9322-009470703669",
       "deleted": true,
-      "lastModified": 1734336030996,
-      "position": 30
+      "lastModified": 1734336408406,
+      "position": 31
     },
     {
       "name": "C#",
@@ -1194,8 +1234,8 @@
       ],
       "id": "534a504d-ec91-442a-a939-bc6c9ad2548d",
       "deleted": true,
-      "lastModified": 1734336030996,
-      "position": 31
+      "lastModified": 1734336408406,
+      "position": 32
     },
     {
       "name": "Sourcecode",
@@ -1214,8 +1254,8 @@
       ],
       "id": "bb572ce2-ec92-4bc3-b6e2-64847f789e13",
       "deleted": true,
-      "lastModified": 1734336030996,
-      "position": 32
+      "lastModified": 1734336408406,
+      "position": 33
     },
     {
       "name": "CodeFun",
@@ -1259,8 +1299,8 @@
       ],
       "id": "1cef2e87-f8f8-4a22-a706-82d1ed85c0a8",
       "deleted": true,
-      "lastModified": 1734336030996,
-      "position": 33
+      "lastModified": 1734336408406,
+      "position": 34
     },
     {
       "name": "Javascript, HTML5",
@@ -1299,8 +1339,8 @@
       ],
       "id": "14e7f88e-7c89-469b-a564-b30bef2b5944",
       "deleted": true,
-      "lastModified": 1734336030996,
-      "position": 34
+      "lastModified": 1734336408406,
+      "position": 35
     },
     {
       "name": "SGP611",
@@ -1329,8 +1369,8 @@
       ],
       "id": "03ea93f4-2750-437c-8348-70ba2b278a32",
       "deleted": true,
-      "lastModified": 1734336030996,
-      "position": 35
+      "lastModified": 1734336408406,
+      "position": 36
     },
     {
       "name": "TCP/IP/WWW",
@@ -1359,8 +1399,8 @@
       ],
       "id": "27155f53-e4cf-4b5a-ab10-c3d3c71b7203",
       "deleted": true,
-      "lastModified": 1734336030996,
-      "position": 36
+      "lastModified": 1734336408406,
+      "position": 37
     },
     {
       "name": "ResourcesGame",
@@ -1379,8 +1419,8 @@
       ],
       "id": "5bdc0b08-5b7e-42c7-a9e0-9cdb25aa0916",
       "deleted": true,
-      "lastModified": 1734336030996,
-      "position": 37
+      "lastModified": 1734336408406,
+      "position": 38
     },
     {
       "name": "Fileshare",
@@ -1394,8 +1434,8 @@
       ],
       "id": "34f62eeb-a3e6-4556-83d6-d4f42c7df712",
       "deleted": true,
-      "lastModified": 1734336030996,
-      "position": 38
+      "lastModified": 1734336408406,
+      "position": 39
     },
     {
       "name": "C++",
@@ -1414,8 +1454,8 @@
       ],
       "id": "6c99c8ea-fc38-4181-b75b-c54b76559551",
       "deleted": true,
-      "lastModified": 1734336030996,
-      "position": 39
+      "lastModified": 1734336408406,
+      "position": 40
     },
     {
       "name": "Regex",
@@ -1434,8 +1474,8 @@
       ],
       "id": "e178fc7b-42ca-4303-b434-7e097e6d7a2c",
       "deleted": true,
-      "lastModified": 1734336030996,
-      "position": 40
+      "lastModified": 1734336408406,
+      "position": 41
     },
     {
       "name": "Lifestylish",
@@ -1449,8 +1489,8 @@
       ],
       "id": "2f8ec5ea-dbb8-4683-99cd-12d1d8c74eef",
       "deleted": true,
-      "lastModified": 1734336030996,
-      "position": 41
+      "lastModified": 1734336408406,
+      "position": 42
     },
     {
       "name": "Licenses",
@@ -1464,8 +1504,8 @@
       ],
       "id": "c7d570df-a87d-4fba-8d75-f0e03e602d8e",
       "deleted": true,
-      "lastModified": 1734336030996,
-      "position": 42
+      "lastModified": 1734336408406,
+      "position": 43
     },
     {
       "name": "Piracy",
@@ -1489,8 +1529,8 @@
       ],
       "id": "3b70a58e-afa1-4ce8-88df-36195dbf962d",
       "deleted": true,
-      "lastModified": 1734336030996,
-      "position": 43
+      "lastModified": 1734336408406,
+      "position": 44
     },
     {
       "name": "Collections",
@@ -1509,8 +1549,8 @@
       ],
       "id": "c0bd9f23-3109-4a8c-a4e2-928534940e9c",
       "deleted": true,
-      "lastModified": 1734336030996,
-      "position": 44
+      "lastModified": 1734336408406,
+      "position": 45
     },
     {
       "name": "Movex",
@@ -1529,8 +1569,8 @@
       ],
       "id": "8ccd6451-bbde-4abc-a7a6-1401469a541b",
       "deleted": true,
-      "lastModified": 1734336030996,
-      "position": 45
+      "lastModified": 1734336408406,
+      "position": 46
     },
     {
       "name": "Project-Origo",
@@ -1554,8 +1594,8 @@
       ],
       "id": "e82e7468-24b4-4343-8a70-83992c2b82fb",
       "deleted": true,
-      "lastModified": 1734336030996,
-      "position": 46
+      "lastModified": 1734336408406,
+      "position": 47
     },
     {
       "name": "Sweco",
@@ -1589,8 +1629,8 @@
       ],
       "id": "fb2fbdc6-bf2b-4360-8984-6356d6a0c112",
       "deleted": true,
-      "lastModified": 1734336030996,
-      "position": 47
+      "lastModified": 1734336408406,
+      "position": 48
     },
     {
       "name": "Saft",
@@ -1674,8 +1714,8 @@
       ],
       "id": "2addcddd-63b3-4ae9-bdeb-2410030a144b",
       "deleted": true,
-      "lastModified": 1734336030996,
-      "position": 48
+      "lastModified": 1734336408406,
+      "position": 49
     },
     {
       "name": "TheFileNinja",
@@ -1719,8 +1759,8 @@
       ],
       "id": "e52cce23-926e-483b-8af0-a238d4277e64",
       "deleted": true,
-      "lastModified": 1734336030996,
-      "position": 49
+      "lastModified": 1734336408406,
+      "position": 50
     },
     {
       "name": "AI Chats",
@@ -1824,45 +1864,8 @@
       ],
       "id": "cefcd58e-5a13-436c-901c-0eba9a8c08c1",
       "deleted": true,
-      "lastModified": 1734336030996,
-      "position": 50
-    },
-    {
-      "id": "ecd6e64c-fb68-4732-bf48-29bcef1ac451",
-      "name": "Favoriter",
-      "isOpen": true,
-      "lastModified": 1734336030996,
-      "deleted": false,
-      "position": 51,
-      "bookmarks": [
-        {
-          "id": "791cb86d-82df-4781-b90d-3f7636a32b91",
-          "title": "Nyheter från Sveriges största nyhetssajt",
-          "url": "https://www.aftonbladet.se/",
-          "description": "",
-          "icon": "https://www.aftonbladet.se/web-assets/favicon-8447eb68/favicon.ico",
-          "lastModified": 1732276541183,
-          "deleted": false
-        },
-        {
-          "id": "a466acc6-421d-467e-8a91-b3dad2b02a1d",
-          "title": "Nyheter - senaste nyheterna i Sverige och världen",
-          "url": "https://www.expressen.se/",
-          "description": "",
-          "icon": "https://static.bonniernews.se/bundles/expressen/images/favicon.ico",
-          "lastModified": 1732276603274,
-          "deleted": false
-        },
-        {
-          "id": "ba94c7a4-9624-4b9b-b578-aa1257e24463",
-          "title": "(466) YouTube",
-          "url": "https://www.youtube.com/",
-          "description": "",
-          "icon": "https://www.youtube.com/s/desktop/b61fbcbd/img/logos/favicon_32x32.png",
-          "lastModified": 1732276678013,
-          "deleted": false
-        }
-      ]
+      "lastModified": 1734336408406,
+      "position": 51
     }
   ],
   "githubConfig": {
