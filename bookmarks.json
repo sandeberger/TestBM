@@ -117,7 +117,7 @@
       "id": "939c965c-0303-4180-a5d6-3801e324857e",
       "name": "Test",
       "isOpen": true,
-      "lastModified": 1734972283327,
+      "lastModified": 1734972584488,
       "deleted": false,
       "position": 2,
       "bookmarks": [
@@ -137,8 +137,8 @@
           "url": "https://www.aftonbladet.se/",
           "description": "",
           "icon": "https://www.aftonbladet.se/web-assets/favicon-8447eb68/favicon.ico",
-          "lastModified": 1734972283327,
-          "deleted": false,
+          "lastModified": 1734972584488,
+          "deleted": true,
           "position": 1
         },
         {
@@ -147,8 +147,8 @@
           "url": "https://www.expressen.se/",
           "description": "",
           "icon": "https://static.bonniernews.se/bundles/expressen/images/favicon.ico",
-          "lastModified": 1734972283327,
-          "deleted": false,
+          "lastModified": 1734972581703,
+          "deleted": true,
           "position": 2
         }
       ]
