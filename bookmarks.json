@@ -7,10 +7,20 @@
       "id": "ecd6e64c-fb68-4732-bf48-29bcef1ac451",
       "name": "Favoriter",
       "isOpen": true,
-      "lastModified": 1734336408406,
+      "lastModified": 1734972283327,
       "deleted": false,
       "position": 0,
       "bookmarks": [
+        {
+          "id": "ba94c7a4-9624-4b9b-b578-aa1257e24463",
+          "title": "(466) YouTube",
+          "url": "https://www.youtube.com/",
+          "description": "",
+          "icon": "https://www.youtube.com/s/desktop/b61fbcbd/img/logos/favicon_32x32.png",
+          "lastModified": 1734972283327,
+          "deleted": false,
+          "position": 0
+        },
         {
           "id": "a466acc6-421d-467e-8a91-b3dad2b02a1d",
           "title": "Nyheter - senaste nyheterna i Sverige och världen",
@@ -20,16 +30,6 @@
           "lastModified": 1734336373069,
           "deleted": false,
           "position": 0
-        },
-        {
-          "id": "ba94c7a4-9624-4b9b-b578-aa1257e24463",
-          "title": "(466) YouTube",
-          "url": "https://www.youtube.com/",
-          "description": "",
-          "icon": "https://www.youtube.com/s/desktop/b61fbcbd/img/logos/favicon_32x32.png",
-          "lastModified": 1734336373069,
-          "deleted": false,
-          "position": 1
         },
         {
           "id": "791cb86d-82df-4781-b90d-3f7636a32b91",
@@ -117,7 +117,7 @@
       "id": "939c965c-0303-4180-a5d6-3801e324857e",
       "name": "Test",
       "isOpen": true,
-      "lastModified": 1734336408406,
+      "lastModified": 1734972283327,
       "deleted": false,
       "position": 2,
       "bookmarks": [
@@ -127,8 +127,29 @@
           "url": "https://www.youtube.com/",
           "description": "",
           "icon": "https://www.youtube.com/s/desktop/b61fbcbd/img/logos/favicon_32x32.png",
-          "lastModified": 1732276678013,
-          "deleted": false
+          "lastModified": 1734972283327,
+          "deleted": false,
+          "position": 0
+        },
+        {
+          "id": "791cb86d-82df-4781-b90d-3f7636a32b91",
+          "title": "Nyheter från Sveriges största nyhetssajt",
+          "url": "https://www.aftonbladet.se/",
+          "description": "",
+          "icon": "https://www.aftonbladet.se/web-assets/favicon-8447eb68/favicon.ico",
+          "lastModified": 1734972283327,
+          "deleted": false,
+          "position": 1
+        },
+        {
+          "id": "a466acc6-421d-467e-8a91-b3dad2b02a1d",
+          "title": "Nyheter - senaste nyheterna i Sverige och världen",
+          "url": "https://www.expressen.se/",
+          "description": "",
+          "icon": "https://static.bonniernews.se/bundles/expressen/images/favicon.ico",
+          "lastModified": 1734972283327,
+          "deleted": false,
+          "position": 2
         }
       ]
     },
